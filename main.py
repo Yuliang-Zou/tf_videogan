@@ -322,7 +322,7 @@ class Model():
 
 if __name__ == '__main__':
 	# Load pre-trained model
-	G_name = './beach_G.npy'
+	G_name = './train_G.npy'
 	param_G = np.load(G_name).item()
 	dump_path = './output/'
 
