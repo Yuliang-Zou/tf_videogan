@@ -60,3 +60,7 @@ The following videos were generated from sampled noise:
 You can find the 'beach' model in the repository. The remaining 2 models can be found [here](https://drive.google.com/drive/folders/0B2SnTpv8L4iLRzdWb2lQdjc2ZFE?usp=sharing)
 
 And you can also extract other 2 models with the code `load_t7.py`. (You will need to install the package [torchfile](https://github.com/bshillingford/python-torchfile) first)
+
+## Notes
+
+You might want to see their original [torch implementation](https://github.com/cvondrick/videogan).
